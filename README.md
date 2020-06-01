@@ -1,5 +1,5 @@
 # Description
-Displays a new vocabulary word everyday in your terminal using python. Please read everything before asking questions.
+Displays a new vocabulary word everyday in your terminal using python.
 
 # Important Notes
 - If you just want the Python script, just look at vocab.py and be on your merry way. If you're interested in the Hyper config or Bash stuff, keep reading.
