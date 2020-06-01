@@ -8,14 +8,14 @@ Displays a new vocabulary word everyday in your terminal using python. Please re
 - The new Mac OS Catalina uses Zsh instead of Bash, but I switched back to Bash using Hyper (in the config file, it is on line 108). Please change this accordingly as there are instructions in the file.
 - On Catalina, switching back to Bash gives an ugly message everytime a new terminal window opens, so I configured my Hyper terminal to clear the screen everytime a new window opens (line 149).
 - On line 150 of the config file, the command outputs the quote 'never mind perfection, focus on progress.' in color. I'm not sure if it works on other shells, but works fine on Bash.
-- On line 151, it prints a new line
-- On line 152, it calls my custom Bash command that will run the Python script
+- On line 151 of the config file, it prints a new line
+- On line 152 of the config file, it calls my custom Bash command that will run the Python script
 - I only configured by .bash_profile (not .bashrc) to have the custom 'vocab' command and to change the command "prompt"
 
 # Files
-- .hyper.js - the Hyper config file
-- vocab.py - the python file to scrape dictionary.com for the word of the day
-- .bash_profile - my bash configuration
+- .hyper.js - The Hyper config file
+- vocab.py - The python file to scrape dictionary.com for the word of the day (I was too lazy to add descriptive comments sorry)
+- .bash_profile - My bash configuration
 
 # Requirements
 pip install requests
