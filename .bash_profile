@@ -1,11 +1,9 @@
 # Changes the command "prompt"
 export PS1="\[$(tput setaf 010)\]$ \[$(tput sgr0)\]"
-# $(tput setaf 046) # Blue
 
-# source ~/Documents/Programming/Bash/custom_commands.sh
-
+# Custom Command - please modify the path to the vocab.py file accordingly
 function vocab() {
-  python3 ~/Documents/Programming/Python/Projects/Vocab/vocab.py
+  python3 ~/Downloads/Vocab/vocab.py
 }
 
 # Setting PATH for Python 3.8
