@@ -3,7 +3,7 @@ Displays a new vocabulary word everyday in your terminal using python.
 
 # Important Notes
 - If you just want the Python script, just look at vocab.py and be on your merry way. If you're interested in the Hyper config or Bash stuff, keep reading.
-- I made this on Mac OS running Bash terminal; If you're on Windows, I'm not sure if I can hep troubleshoot.
+- I made this on Mac OS running Bash terminal; If you're on Windows, I'm not sure if I can help troubleshoot.
 - I use a terminal called Hyper (https://hyper.is).
 - The new Mac OS Catalina uses Zsh instead of Bash, but I switched back to Bash using Hyper (in the config file, it is on line 108). Please change this accordingly as there are instructions in the file.
 - On Catalina, switching back to Bash gives an ugly message everytime a new terminal window opens, so I configured my Hyper terminal to clear the screen everytime a new window opens (line 149).
