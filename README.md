@@ -11,6 +11,7 @@ Displays a new vocabulary word everyday in your terminal using python.
 - On line 151 of the config file, it prints a new line
 - On line 152 of the config file, it calls my custom Bash command that will run the Python script
 - I only configured by .bash_profile (not .bashrc) to have the custom 'vocab' command and to change the command "prompt"
+- Please change the path on the 'vocab' command in the .bash_profile according to where you clone/download
 
 # Files
 - .hyper.js - The Hyper config file
