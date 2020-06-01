@@ -23,4 +23,4 @@ Displays a new vocabulary word everyday in your terminal using python. I assume 
 - pip install bs4
 
 # FAQ
-- Coming soon
+- Q: How do you get your terminal to look like that? A: I use a terminal called Hyper with a theme called 'hyperterm-material'
