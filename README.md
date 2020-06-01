@@ -18,8 +18,8 @@ Displays a new vocabulary word everyday in your terminal using python. Please re
 - .bash_profile - My bash configuration
 
 # Requirements
-pip install requests
-pip install bs4
+- pip install requests
+- pip install bs4
 
 # FAQ
 - Coming soon
