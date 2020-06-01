@@ -1,5 +1,5 @@
 # Description
-Displays a new vocabulary word everyday in your terminal using python. I assume you know about python and how to use it in your OS. I also assume you know how to use the shell your computer is running. If you have questions that aren't related to anything OS specific, feel free to ask. 
+Displays a new vocabulary word everyday in your terminal using python. I assume you found this on r/Python, know about python, and how to use it in your OS. I also assume you know how to use the shell your computer is running. If you have questions that aren't related to anything OS specific, feel free to ask. 
 
 # Important Notes
 - If you just want the Python script, just look at vocab.py and be on your merry way. If you're interested in the Hyper config or Bash stuff, keep reading.
