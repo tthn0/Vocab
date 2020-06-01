@@ -14,7 +14,7 @@ Displays a new vocabulary word everyday in your terminal using python.
 
 # Files
 - .hyper.js - The Hyper config file
-- vocab.py - The python file to scrape dictionary.com for the word of the day (I was too lazy to add descriptive comments sorry)
+- vocab.py - The python file to scrape dictionary.com for the word of the day
 - .bash_profile - My bash configuration
 
 # Requirements
