@@ -2,7 +2,7 @@
 - 6/2/2020: Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
 
 # Description
-- Displays a new vocabulary word everyday in your terminal using python. I assume you found this on r/Python, know about python, and how to use it in your OS. I also assume you know how to use the shell your computer is running. If you have questions that aren't related to anything OS specific, feel free to ask. My reddit is reddit.com/user/ImportantDesk (don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is in Important Notes below)
+- Displays a new vocabulary word everyday in your terminal using python. I assume you found this on r/Python, know about python, and how to use it in your OS. I also assume you know how to use the shell your computer is running. If you have questions that aren't related to anything OS specific, feel free to ask. My reddit is https://reddit.com/user/ImportantDesk (don't read my comments before 6/2/2020 as they are now outdated. Everything you need to know is in Important Notes below)
 
 # Important Notes
 - If you just want the Python script, just look at vocab.py and be on your merry way. If you're interested in the Hyper configuration or Bash stuff, keep reading.
