@@ -1,5 +1,7 @@
+# Updates
+- 6/2/2020: Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
+
 # Description
-- UPDATED 6/2/2020: Please read the important notes! If you cloned/downloaded before 6/2/2020, I have updated this repository. Instead of using hyper-init to run commands, I just put them in .bash_profile
 - Displays a new vocabulary word everyday in your terminal using python. I assume you found this on r/Python, know about python, and how to use it in your OS. I also assume you know how to use the shell your computer is running. If you have questions that aren't related to anything OS specific, feel free to ask. My reddit is https://www.reddit.com/user/ImportantDesk
 
 # Important Notes
