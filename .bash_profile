@@ -1,10 +1,15 @@
+# Silences the deprecation warning
+export BASH_SILENCE_DEPRECATION_WARNING=1
+
 # Changes the command "prompt"
 export PS1="\[$(tput setaf 010)\]$ \[$(tput sgr0)\]"
 
-# Custom Command - please modify the path to the vocab.py file accordingly
-function vocab() {
-  python3 ~/Downloads/Vocab/vocab.py
-}
+# Displays quote
+echo never $(tput setaf 10)mind$(tput sgr0) $(tput setaf 172)perfection$(tput sgr0), $(tput setaf 14)focus$(tput sgr0) $(tput setaf 11)on$(tput sgr0) progress.
+echo
+
+# Runs the vocab.py script. Please change the path accordingly
+python3 ~/Downloads/Vocab/vocab.py
 
 # Setting PATH for Python 3.8
 # The original version is saved in .bash_profile.pysave
