@@ -142,17 +142,7 @@ module.exports = {
     webGLRenderer: true,
 
     // for advanced config flags please refer to https://hyper.is/#cfg
-    init: [
-      {
-        rule: 'all',
-        commands: [
-          'clear',
-          'echo never $(tput setaf 10)mind$(tput sgr0) $(tput setaf 172)perfection$(tput sgr0), $(tput setaf 046)focus$(tput sgr0) $(tput setaf 11)on$(tput sgr0) progress.',
-          'printf "\n"',
-          'vocab'
-        ]
-      }
-    ]
+
   },
 
   // a list of plugins to fetch and install from npm
@@ -163,9 +153,9 @@ module.exports = {
   //   `project#1.0.1`
   plugins: [
     'hyperterm-material',     // Material Theme
-    'hyper-init',             // Runs custom commands on initialization
     'hypercwd',               // Open new tab in same directory
     'hypertermin-tab-icons',  // Tab icons
+    // 'hyper-init',             // Runs custom commands on initialization
     // 'hyperpower',             // Cool typing effect
     // 'hyperborder',            // Cool border
     // 'hyperterm-cursor',       // Shows character under cursor
