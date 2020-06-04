@@ -31,6 +31,4 @@ definition = soup.find('div', class_='wotd-item-headword__pos').find_all('p')[1]
 pron = pron[0:1:] + pron[2::]
 pron = pron[0:-2:] + pron[-1::]
 
-print(bold + cyan + word + reset + ' ' + pron + ': ' + italic + darkgrey + kind + reset)
-print(definition)
-print()
+print(f"{bold}{cyan}{word}{reset} {pron}: {italic}{darkgrey}{kind}{reset}\n{definition}\n")
